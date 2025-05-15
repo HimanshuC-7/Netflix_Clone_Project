@@ -25,3 +25,6 @@ This project is for educational and practice purposes only.
 It is not affiliated with or endorsed by Netflix.
 
 Page might not open or browser might show danger site but this page is only for frontend practice only.
+To visit the site click on show Detail which is present on the danger page screen then click on unsafe page. 
+this page doesn't collect any kind of data it is totally safe to open.
+
